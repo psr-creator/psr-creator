@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @psr-creator
-- 👀 I’m interested in back-end Development, Data Analytics
+- 👀 I’m interested in Fullstack Development, Data Analytics
 - 🌱 I’m currently learning Fullstack Development
 - 📫 How to reach me www.linkedin.com/in/ritul-shaji
 
